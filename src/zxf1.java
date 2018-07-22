@@ -1,0 +1,2 @@
+public class zxf1 {
+}
